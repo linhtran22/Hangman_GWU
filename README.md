@@ -1,6 +1,10 @@
 ## Project Title
 
-  HangMan Game
+* HangMan Game
+
+## Team
+
+* Positivity
 
 ## Description
 
