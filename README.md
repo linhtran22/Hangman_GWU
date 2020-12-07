@@ -18,3 +18,10 @@ HangMan Game
 * Either you win or reach the maximum of 6 attempts to guess wrong, the program will ask you if you want to play again
 * You can play again by typing “yes”, or exit the game by typing “no”
 
+## Donwload the project
+
+* Go to the root of the project
+* Click on the green button "code"
+* Click donwload Zip to doanload the project
+* You will find the ProjectHangManFall2020.py inside the folder
+
